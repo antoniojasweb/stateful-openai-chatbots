@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "created_at": "2025-09-06T18:15:57.735914",
+    "total_messages": 3,
+    "model_used": "claude-sonnet-4-20250514",
+    "api_provider": "anthropic",
+    "version": "1.0"
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "content": "¿Cuál es la situación financiera del CD Badajoz, a día de hoy?"
+    },
+    {
+      "role": "user",
+      "content": "¿Cuál es la situación financiera del CD Badajoz, a día de hoy?"
+    },
+    {
+      "role": "assistant",
+      "content": "No tengo información actualizada específica sobre la situación financiera actual del CD Badajoz, ya que mi conocimiento tiene un corte temporal y los datos financieros de clubes de categorías inferiores no siempre son públicos o están ampliamente reportados.\n\nEl CD Badajoz es un club histórico del fútbol español que ha pasado por diferentes categorías y, como muchos clubes de divisiones inferiores, suele enfrentar desafíos financieros recurrentes.\n\nPara obtener información actualizada sobre su situación financiera actual, te recomendaría:\n\n1. **Consultar medios deportivos locales** de Extremadura\n2. **Revisar la web oficial del club** \n3. **Buscar en periódicos deportivos** como Marca, AS, o Sport\n4. **Consultar medios especializados** en fútbol de categorías inferiores\n\n¿Hay algún aspecto específico de la situación del club que te preocupe o sobre el que tengas dudas? Podría ayudarte a orientar mejor tu búsqueda de información."
+    }
+  ]
+}
